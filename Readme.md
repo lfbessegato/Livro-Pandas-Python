@@ -44,10 +44,16 @@ O foco principal é o aprendizado de técnicas de:
 
 ```bash
 📦 pandas-python-data-wrangling
- ┣ 📂 capitulo-01
- ┣ 📂 capitulo-02
- ┣ 📂 datasets
- ┣ 📂 exercicios
+ ┣ 📂 capitulo-01-biblioteca-pandas
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
+ ┣ 📂 capitulo-02-estrutura-de-dados-series
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
+ ┣ 📂 capitulo-03-estrutura-de-dados-dataframe
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
+ ┣ 📂 repositorio
  ┣ 📜 README.md
  ┗ 📜 requirements.txt
 ```
@@ -56,9 +62,9 @@ O foco principal é o aprendizado de técnicas de:
 
 ## 🧠 Conteúdos Estudados
 
-- [x] Introdução ao Pandas
-- [x] Estruturas Series e DataFrame
-- [x] Importação de dados
+- [x] Capítulo 01 — Biblioteca Pandas
+- [x] Capítulo 02 — Estrutura de Dados Series
+- [x] Capítulo 03 — Estrutura de Dados DataFrame
 - [ ] Limpeza de dados
 - [ ] Tratamento de valores nulos
 - [ ] Transformações de dados
@@ -72,7 +78,7 @@ O foco principal é o aprendizado de técnicas de:
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/lfbessegato/Livro-Pandas-Python.git
 ```
 
 ### 2️⃣ Acessar a pasta
@@ -125,4 +131,3 @@ Eduardo Corrêa — Casa do Código | Alura
 ## ⭐ Observação
 
 Projeto desenvolvido exclusivamente para fins de estudo e aprendizado.
-
