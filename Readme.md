@@ -12,7 +12,7 @@
 
 ## 📚 Sobre o Projeto
 
-Este repositório foi criado com o objetivo de acompanhar os estudos, exercícios, exemplos e práticas apresentados no livro:
+Este repositório foi criado com o objetivo de acompanhar os estudos, exemplos e práticas apresentados no livro:
 
 ### **Pandas Python – Data Wrangling para Ciência de Dados**
 ✍️ Autor: **Eduardo Corrêa**  
@@ -43,7 +43,7 @@ O foco principal é o aprendizado de técnicas de:
 ## 📂 Estrutura do Repositório
 
 ```bash
-📦 pandas-python-data-wrangling
+📦 Livro-Pandas-Python
  ┣ 📂 capitulo-01-biblioteca-pandas
  ┃ ┣ 📂 exemplos
  ┃ ┗ 📂 resumo
@@ -51,6 +51,9 @@ O foco principal é o aprendizado de técnicas de:
  ┃ ┣ 📂 exemplos
  ┃ ┗ 📂 resumo
  ┣ 📂 capitulo-03-estrutura-de-dados-dataframe
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
+ ┣ 📂 capitulo-04-conhecendo-seus-dados
  ┃ ┣ 📂 exemplos
  ┃ ┗ 📂 resumo
  ┣ 📂 repositorio
@@ -65,6 +68,7 @@ O foco principal é o aprendizado de técnicas de:
 - [x] Capítulo 01 — Biblioteca Pandas
 - [x] Capítulo 02 — Estrutura de Dados Series
 - [x] Capítulo 03 — Estrutura de Dados DataFrame
+- [x] Capítulo 04 — Conhecendo seus Dados
 - [ ] Limpeza de dados
 - [ ] Tratamento de valores nulos
 - [ ] Transformações de dados
@@ -84,7 +88,7 @@ git clone https://github.com/lfbessegato/Livro-Pandas-Python.git
 ### 2️⃣ Acessar a pasta
 
 ```bash
-cd SEU-REPOSITORIO
+cd Livro-Pandas-Python
 ```
 
 ### 3️⃣ Instalar as dependências
