@@ -56,6 +56,9 @@ O foco principal é o aprendizado de técnicas de:
  ┣ 📂 capitulo-04-conhecendo-seus-dados
  ┃ ┣ 📂 exemplos
  ┃ ┗ 📂 resumo
+ ┣ 📂 capitulo-05-combinando-dataframes
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
  ┣ 📂 repositorio
  ┣ 📜 README.md
  ┗ 📜 requirements.txt
@@ -69,6 +72,7 @@ O foco principal é o aprendizado de técnicas de:
 - [x] Capítulo 02 — Estrutura de Dados Series
 - [x] Capítulo 03 — Estrutura de Dados DataFrame
 - [x] Capítulo 04 — Conhecendo seus Dados
+- [x] Capítulo 05 — Combinando DataFrames
 - [ ] Limpeza de dados
 - [ ] Tratamento de valores nulos
 - [ ] Transformações de dados
