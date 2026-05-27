@@ -59,9 +59,13 @@ O foco principal é o aprendizado de técnicas de:
  ┣ 📂 capitulo-05-combinando-dataframes
  ┃ ┣ 📂 exemplos
  ┃ ┗ 📂 resumo
+ ┣ 📂 capitulo-06-transformacao-e-limpeza-de-dataframes
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
  ┣ 📂 repositorio
  ┣ 📜 README.md
- ┗ 📜 requirements.txt
+ ┣ 📜 requirements.txt
+ ┗ 📜 .gitignore
 ```
 
 ---
@@ -73,9 +77,7 @@ O foco principal é o aprendizado de técnicas de:
 - [x] Capítulo 03 — Estrutura de Dados DataFrame
 - [x] Capítulo 04 — Conhecendo seus Dados
 - [x] Capítulo 05 — Combinando DataFrames
-- [ ] Limpeza de dados
-- [ ] Tratamento de valores nulos
-- [ ] Transformações de dados
+- [x] Capítulo 06 — Transformação e Limpeza de DataFrames
 - [ ] Agrupamentos e agregações
 - [ ] Data Wrangling avançado
 
@@ -105,6 +107,18 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook
+```
+
+---
+
+## 📦 Dependências do Projeto
+
+```txt
+pandas==2.2.3
+numpy==2.2.5
+matplotlib==3.10.1
+jupyter==1.1.1
+openpyxl==3.1.5
 ```
 
 ---
