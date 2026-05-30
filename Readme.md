@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![Status](https://img.shields.io/badge/Status-Em%20Estudo-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -62,6 +62,9 @@ O foco principal é o aprendizado de técnicas de:
  ┣ 📂 capitulo-06-transformacao-e-limpeza-de-dataframes
  ┃ ┣ 📂 exemplos
  ┃ ┗ 📂 resumo
+ ┣ 📂 capitulo-07-machine-learning
+ ┃ ┣ 📂 exemplos
+ ┃ ┗ 📂 resumo
  ┣ 📂 repositorio
  ┣ 📜 README.md
  ┣ 📜 requirements.txt
@@ -78,8 +81,9 @@ O foco principal é o aprendizado de técnicas de:
 - [x] Capítulo 04 — Conhecendo seus Dados
 - [x] Capítulo 05 — Combinando DataFrames
 - [x] Capítulo 06 — Transformação e Limpeza de DataFrames
-- [ ] Agrupamentos e agregações
-- [ ] Data Wrangling avançado
+- [x] Capítulo 07 — Machine Learning
+
+✅ Livro concluído com sucesso.
 
 ---
 
@@ -140,6 +144,24 @@ Este repositório serve como material de apoio para:
 Contribuições, sugestões e melhorias são sempre bem-vindas.
 
 ---
+
+## 🏆 Conclusão
+
+Este repositório reúne todos os exemplos e resumos desenvolvidos durante o estudo completo do livro:
+
+**Pandas Python – Data Wrangling para Ciência de Dados**  
+**Eduardo Corrêa — Casa do Código | Alura**
+
+Ao longo dos capítulos foram explorados temas essenciais para a preparação e análise de dados com Python, incluindo:
+
+- Biblioteca Pandas
+- Estruturas Series e DataFrame
+- Exploração e entendimento de dados
+- Combinação de DataFrames
+- Transformação e limpeza de dados
+- Introdução ao Machine Learning
+
+Este projeto foi concluído em 2026 como parte da minha jornada de estudos em Data Analytics, Engenharia de Dados e Ciência de Dados.
 
 ## 📜 Créditos
 
